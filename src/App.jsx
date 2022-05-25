@@ -29,7 +29,7 @@ const App = () => {
       <Problem data={landingPageData.Problem} />
       <Solution data={landingPageData.Solution} />
       <Features data={landingPageData.Features} />
-      <Slides />
+      {/*<Slides />*/}
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </div>

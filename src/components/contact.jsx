@@ -40,7 +40,7 @@ export const Contact = (props) => {
                      <SocialIcon ClassName='instagram' url="https://www.instagram.com/katuripu" target="blank" bgColor='#fff' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                      <p></p>
                      <SocialIcon ClassName='facebook' url="https://www.facebook.com/groups/katuripu" target="blank" bgColor='#fff' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                     <SocialIcon ClassName='whatsapp' url="https://wa.me/212661512619" target="blank" bgColor='#fff' network='whatsapp' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                     <SocialIcon ClassName='whatsapp' url="https://chat.whatsapp.com/FRYi55sFxJ1CZmwA8eGory" target="blank" bgColor='#fff' network='whatsapp' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                      <SocialIcon ClassName='linkedin' url="https://www.linkedin.com/company/katuripu" target="blank" bgColor='#fff' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                   </div>
 
