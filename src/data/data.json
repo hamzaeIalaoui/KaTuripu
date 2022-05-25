@@ -1,0 +1,66 @@
+{
+    "Header": {
+
+        "title": "KaTuripu",
+        "paragraph": "Knowledge at your fingertips."
+
+    },
+    
+    "Features": [{
+            "icon": "fa fa-hand-point-right",
+            "name": "Simple",
+            "text": "Our content is in your own dialect so you can learn what you need without any language barriers and is built using interactive graphics and animations that act as a visual aid for your learning."
+        },
+        {
+            "icon": "fa fa-crosshairs",
+            "name": "Accurate",
+            "text": "For each subject we support, we follow the American teaching model, which focuses on understanding the underlying concept and application by solving real-life themed problems instead of memorization. Also, every video or handout we create is verified by experienced faculty in the respective field."
+        },
+        {
+            "icon": "fa fa-hand-holding-heart",
+            "name": "Free",
+            "text": "Our content is free and accessible by anyone regardless of their location, background, or financial situation."
+        }
+    ],
+    
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Achraf Ajrhourh",
+            "job": "Chief Executive Officer"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Hamza El Alaoui",
+            "job": "Chief Technical Officer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Abdessamad Ait Elmouden",
+            "job": "Chief Content Officer"
+        }
+    ],
+    "Contact": {
+        "address": "",
+        "phone": ["+212 661 512 619"],
+        "email": "katuripu@gmail.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Problem": [{
+            "icon": "fa  fa-face-frown",
+            "title": "Complexity",
+            "text": "People do not enjoy STEM because they find it abstract and hard to grasp"
+        },
+        {
+            "icon": "fa fa-circle-exclamation",
+            "title": "Methodology", 
+            "text": "Tutoring tends to follow a memorization approach rather than application through real-life problems"
+        },
+        {
+            "icon": "fa fa-sack-dollar",
+            "title": "Cost",
+            "text": "People resort to tutoring sessions to grasp the materials which tends to be expensive"
+        }
+    ]
+
+}
