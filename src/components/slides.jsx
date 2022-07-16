@@ -7,7 +7,7 @@ export const Slides = () => {
         </div>
         <div className='google-slides'>
         <iframe title="meow"
-                src="https://docs.google.com/presentation/d/1573tOi2-xI2H-8HZbIsar09Y0iu71wmAR99LlXzJJDM/embed?start=false&loop=false&delayms=15000&slide=id.gd9c453428_0_16" 
+                src="https://docs.google.com/presentation/d/1J8nJjxj2QWeuGOZC5lKdZjgHmhm0HHKy2PtrgTYFKWc/embed?start=false&loop=false&delayms=15000&slide=id.p1" 
                 frameborder="0" 
                 width="960" height="569" 
                 allowfullscreen="true" 
