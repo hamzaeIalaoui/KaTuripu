@@ -51,7 +51,7 @@ export const Contact = (props) => {
          </div>
          <div id='footer'>
             <div className='container text-center'>
-               © 2022 KaTuripu | All Rights Reserved
+               © 2023 KaTuripu | All Rights Reserved
             </div>
          </div>
       </div>
