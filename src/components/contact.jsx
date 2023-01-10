@@ -37,8 +37,8 @@ export const Contact = (props) => {
 
                      <SocialIcon ClassName='youtube' url="https://youtube.com/c/KaTuripu" target="blank" bgColor='#fff' />   <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                      <SocialIcon ClassName='tiktok' url="https://www.tiktok.com/@katuripu" target="blank" bgColor='#fff' /> <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                     <SocialIcon ClassName='instagram' url="https://www.instagram.com/katuripu" target="blank" bgColor='#fff' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                     <p></p>
+                     <SocialIcon ClassName='patreon' url="https://patreon.com/katuripu" target="blank" bgColor='#fff' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                     <p></p> 
                      <SocialIcon ClassName='facebook' url="https://www.facebook.com/groups/katuripu" target="blank" bgColor='#fff' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                      <SocialIcon ClassName='whatsapp' url="https://chat.whatsapp.com/FRYi55sFxJ1CZmwA8eGory" target="blank" bgColor='#fff' network='whatsapp' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                      <SocialIcon ClassName='linkedin' url="https://www.linkedin.com/company/katuripu" target="blank" bgColor='#fff' />  <span class="spanen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -51,7 +51,7 @@ export const Contact = (props) => {
          </div>
          <div id='footer'>
             <div className='container text-center'>
-               © 2023 KaTuripu | All Rights Reserved
+               © {new Date().getFullYear()} KaTuripu | All Rights Reserved
             </div>
          </div>
       </div>
