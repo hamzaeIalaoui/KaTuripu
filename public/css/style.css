@@ -1,4 +1,3 @@
-@charset "UTF-8";
 body,
 html {
   font-family: "Open Sans", sans-serif;
@@ -349,7 +348,7 @@ header .intro-text {
 }
 
 #solution .solution-text li:before {
-  content: "";
+  content: "\f00c";
   font-family: "FontAwesome";
   color: #3300cc;
   font-size: 11px;
